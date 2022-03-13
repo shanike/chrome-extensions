@@ -1,0 +1,3 @@
+[submodule "private-whatsapp-web"]
+	path = private-whatsapp-web
+	url = https://github.com/shanike/private-whatsapp-web.git
